@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="list_of_events">List of Events</string>
+    <string name="my_events">My Events</string>
+    <string name="map">Map</string>
+    <string name="about">About</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="loading">Loading...</string>
+    <string name="aboutDescription">
+                Authors:\nAnna Głowińska &amp; Adam Czajka\n\nThis project is made as a part of IT Project A on John Neumann university.
+    </string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_eventitem_list">EventItems</string>
+    <string name="title_eventitem_detail">EventItem Detail</string>
+    <string name="title_myeventitem_list">MyEventsItems</string>
+    <string name="title_myeventitem_detail">MyEventItem Detail</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+</resources>
